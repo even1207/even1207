@@ -4,9 +4,8 @@ I’m a software engineer based in Australia 🇦🇺, passionate about AI, fron
 
 ## 🚀 My Work Highlights
 
-- 🔥 [AI Video Generator](https://github.com/even1207/...) - A short-video generation tool combining TTS and Image-to-Video pipelines, built with React + FastAPI + LLMs
-- 🧠 [LangChain-based Legal QA System](https://github.com/even1207/...) - A Chinese law QA search engine powered by LLM RAG + LangChain Agent
-- 🎥 [Live Stream Scripting Engine](https://github.com/even1207/...) - A script generation backend for live shopping, integrated with OpenAI & LlamaFactory
+- 🔥 [AI Video Generator frontend](https://github.com/even1207/ai-video-generator-web)|[AI Video Generator backend](https://github.com/even1207/voice-and-video-generator-backend) - A short-video generation tool combining TTS and Image-to-Video pipelines, built with React + FastAPI 
+- 🎥 [Short Video Script Fine Tune LLM](https://github.com/even1207/LLM_fine_tune) - A script generation backend for live shopping, integrated with OpenAI & LlamaFactory
 
 ## 🛠️ Tech Stack
 
